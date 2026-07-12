@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebApplication",
+      "@id": "https://btcwar.net/#app",
+      "name": "BTC War",
+      "url": "https://btcwar.net/",
+      "description": "A real-time Bitcoin order-book visualization that maps Binance Spot BTC/USDT market depth and trade flow onto a live 3D battlefield.",
+      "applicationCategory": "FinanceApplication",
+      "operatingSystem": "Any modern web browser with WebGL",
+      "isAccessibleForFree": true,
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "about": [
+        "Bitcoin",
+        "BTC/USDT",
+        "Bitcoin price",
+        "Order book",
+        "Market depth",
+        "Order flow"
+      ],
+      "sameAs": [
+        "https://vibewhip.github.io/btc-war/",
+        "https://github.com/VibeWhip/btc-war"
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/#article"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#article"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://vibewhip.github.io/btc-war/#website",
+      "name": "BTC War Market Guides",
+      "url": "https://vibewhip.github.io/btc-war/",
+      "inLanguage": "en-US",
+      "mainEntity": {
+        "@id": "https://btcwar.net/#app"
+      }
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/#article",
+      "headline": "BTC Price Today: What 24-Hour Change, Volume, and Market Depth Mean",
+      "url": "https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/",
+      "inLanguage": "en-US",
+      "author": {
+        "@type": "Person",
+        "name": "blibli"
+      },
+      "about": [
+        "Bitcoin price",
+        "24-hour volume",
+        "Market depth",
+        "Order flow"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#article",
+      "headline": "Bitcoin Price, Market Depth, and Order Flow: A Practical Glossary",
+      "url": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/",
+      "inLanguage": "en-US",
+      "author": {
+        "@type": "Person",
+        "name": "blibli"
+      },
+      "about": [
+        "Bitcoin price",
+        "Order book",
+        "Market depth",
+        "Order flow"
+      ]
+    }
+  ]
+}
