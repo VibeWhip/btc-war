@@ -69,6 +69,8 @@ This separates what has traded from what is currently resting in the book. It al
 
 [BTC War](https://btcwar.net/?utm_source=github-pages&utm_medium=guide&utm_campaign=bitcoin-price-depth-flow) visualizes live BTC/USDT activity as a 3D battlefield. For a compact live price view with market-pressure context, open the [BTC price page](https://btcwar.net/btc-price?utm_source=github-pages&utm_medium=guide&utm_campaign=bitcoin-price-depth-flow).
 
+For a metric-focused companion, read [BTC Price Today: What 24-Hour Change, Volume, and Market Depth Mean](https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/).
+
 BTC War is descriptive and educational. It does not predict Bitcoin prices, execute trades, or provide financial advice.
 
 — blibli
