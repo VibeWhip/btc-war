@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>BTC War Market Guides</title>
+    <link>https://vibewhip.github.io/btc-war/</link>
+    <description>Guides to live Bitcoin price, market depth, order flow, and the BTC War visualization.</description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 12 Jul 2026 22:13:00 GMT</lastBuildDate>
+    <atom:link href="https://vibewhip.github.io/btc-war/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BTC Price Today: What 24-Hour Change, Volume, and Market Depth Mean</title>
+      <link>https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/</link>
+      <guid isPermaLink="true">https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/</guid>
+      <pubDate>Sun, 12 Jul 2026 16:00:00 GMT</pubDate>
+      <dc:creator>blibli</dc:creator>
+      <category>Bitcoin price</category>
+      <category>Market depth</category>
+      <category>Order flow</category>
+      <description>A practical guide to rolling 24-hour BTC statistics, spread, depth, liquidity, and executed order flow.</description>
+    </item>
+    <item>
+      <title>Bitcoin Price, Market Depth, and Order Flow: A Practical Glossary</title>
+      <link>https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/</link>
+      <guid isPermaLink="true">https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/</guid>
+      <pubDate>Sun, 12 Jul 2026 15:00:00 GMT</pubDate>
+      <dc:creator>blibli</dc:creator>
+      <category>Bitcoin</category>
+      <category>Order book</category>
+      <category>Market depth</category>
+      <category>Order flow</category>
+      <description>Definitions and relationships for Bitcoin price, spread, order-book liquidity, market depth, executed order flow, and buy/sell pressure.</description>
+    </item>
+  </channel>
+</rss>
