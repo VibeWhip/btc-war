@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://vibewhip.github.io/btc-war/sitemap.xml
+Sitemap: https://vibewhip.github.io/btc-war/feed.xml
