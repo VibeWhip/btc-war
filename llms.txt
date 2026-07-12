@@ -5,11 +5,13 @@
 ## Primary
 - [BTC War live experience](https://btcwar.net/)
 - [Public project overview](https://vibewhip.github.io/btc-war/)
-- [Bitcoin price, market depth, and order flow guide](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/)
+- [BTC price today, volume, and market depth guide](https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/)
+- [Bitcoin price, market depth, and order flow glossary](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/)
 
 ## Machine-readable discovery
 - [GitHub Pages sitemap](https://vibewhip.github.io/btc-war/sitemap.xml)
 - [GitHub Pages Atom feed](https://vibewhip.github.io/btc-war/feed.xml)
+- [GitHub Pages JSON Feed](https://vibewhip.github.io/btc-war/feed.json)
 - [BTC War sitemap](https://btcwar.net/sitemap.xml)
 - [BTC War robots policy](https://btcwar.net/robots.txt)
 - [BTC War LLM guide](https://btcwar.net/llms.txt)
