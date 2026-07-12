@@ -10,10 +10,10 @@ image: "https://btcwar.net/btc-war-battlefield-preview.jpg"
 logo: "https://btcwar.net/favicon.svg"
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-feed
 defaults:
   - scope:
       path: ""
     values:
       image: "https://btcwar.net/btc-war-battlefield-preview.jpg"
+
