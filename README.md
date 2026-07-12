@@ -18,3 +18,12 @@ BTC War is free to use and requires no account. Market data is informational and
 
 **Website:** https://btcwar.net/  
 **BTC price page:** https://btcwar.net/btc-price
+
+## BTC market guides
+
+- [How BTC War turns live BTC price and order flow into a 3D battlefield](https://github.com/VibeWhip/btc-war/discussions/1)
+- [Why live BTC prices differ across exchanges — and what market depth adds](https://github.com/VibeWhip/btc-war/discussions/2)
+- [Turning live Bitcoin order flow into a 3D battlefield](https://dev.to/vibewhip/turning-live-bitcoin-order-flow-into-a-3d-battlefield-b5f)
+- [BTC price, order book, and order flow are three different things](https://medium.com/p/7cd5ba5e58b2)
+
+This public repository contains project documentation only. Private application source code, deployment configuration, credentials, and build artifacts are not published here.
