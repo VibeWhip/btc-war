@@ -1,0 +1,42 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "BTC War Market Guides",
+  "home_page_url": "https://vibewhip.github.io/btc-war/",
+  "feed_url": "https://vibewhip.github.io/btc-war/feed.json",
+  "description": "Machine-readable updates about live Bitcoin price, market depth, order flow, and the BTC War visualization.",
+  "authors": [
+    {
+      "name": "blibli",
+      "url": "https://medium.com/@blibli"
+    }
+  ],
+  "language": "en-US",
+  "items": [
+    {
+      "id": "https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/",
+      "url": "https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/",
+      "title": "BTC Price Today: What 24-Hour Change, Volume, and Market Depth Mean",
+      "summary": "A practical guide to rolling 24-hour BTC statistics, spread, depth, liquidity, and executed order flow.",
+      "date_published": "2026-07-13T00:00:00+08:00",
+      "tags": [
+        "bitcoin price",
+        "btc price",
+        "market depth",
+        "order flow"
+      ]
+    },
+    {
+      "id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/",
+      "url": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/",
+      "title": "Bitcoin Price, Market Depth, and Order Flow: A Practical Glossary",
+      "summary": "Definitions and relationships for Bitcoin price, spread, order-book liquidity, market depth, executed order flow, and buy/sell pressure.",
+      "date_published": "2026-07-13T00:00:00+08:00",
+      "tags": [
+        "bitcoin",
+        "market depth",
+        "order book",
+        "order flow"
+      ]
+    }
+  ]
+}
