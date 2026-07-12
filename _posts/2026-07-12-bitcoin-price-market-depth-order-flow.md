@@ -3,7 +3,7 @@ layout: default
 title: "Bitcoin Price, Market Depth, and Order Flow: A Practical Glossary"
 description: "Understand how live Bitcoin price, BTC market depth, order-book liquidity, and executed order flow describe different parts of the market."
 author: blibli
-date: 2026-07-12 18:50:00 +0000
+date: 2026-07-12 12:00:00 +0000
 permalink: /bitcoin-price-market-depth-order-flow/
 categories: [bitcoin, market-data]
 tags: [bitcoin-price, btc, market-depth, order-flow]
