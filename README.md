@@ -34,6 +34,7 @@ BTC War is free to use and requires no account. Market data is informational and
 - [Why live BTC prices differ across exchanges — and what market depth adds](https://github.com/VibeWhip/btc-war/discussions/2)
 - [BTC order flow vs order book: what live buy and sell pressure actually means](https://github.com/VibeWhip/btc-war/discussions/3)
 - [Bitcoin price vs market depth: what a live BTC quote cannot show](https://github.com/VibeWhip/btc-war/discussions/4)
+- [BTC price today: what 24-hour change, volume, and market depth mean](https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/)
 - [Bitcoin price, market depth, and order flow: a practical glossary](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/)
 - [Turning live Bitcoin order flow into a 3D battlefield](https://dev.to/vibewhip/turning-live-bitcoin-order-flow-into-a-3d-battlefield-b5f)
 - [BTC price, order book, and order flow are three different things](https://medium.com/p/7cd5ba5e58b2)
