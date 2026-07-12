@@ -1,0 +1,18 @@
+# BTC War
+
+> A real-time Bitcoin order-book visualization that maps Binance BTC/USDT market depth and trade flow onto a live 3D battlefield.
+
+## Primary
+- [BTC War live experience](https://btcwar.net/)
+- [Public project overview](https://vibewhip.github.io/btc-war/)
+- [Bitcoin price, market depth, and order flow guide](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/)
+
+## Machine-readable discovery
+- [GitHub Pages sitemap](https://vibewhip.github.io/btc-war/sitemap.xml)
+- [GitHub Pages Atom feed](https://vibewhip.github.io/btc-war/feed.xml)
+- [BTC War sitemap](https://btcwar.net/sitemap.xml)
+- [BTC War robots policy](https://btcwar.net/robots.txt)
+- [BTC War LLM guide](https://btcwar.net/llms.txt)
+
+## Scope
+BTC War is an informational market visualization. It does not execute trades, custody funds, or provide financial advice.
