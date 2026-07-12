@@ -1,0 +1,14 @@
+title: BTC War
+description: Live BTC price, Bitcoin order flow, market depth and buy/sell pressure visualized as a real-time 3D battlefield.
+url: "https://vibewhip.github.io"
+baseurl: "/btc-war"
+lang: en_US
+author:
+  name: blibli
+repository: VibeWhip/btc-war
+image: "https://btcwar.net/btc-war-battlefield-preview.jpg"
+logo: "https://btcwar.net/favicon.svg"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
