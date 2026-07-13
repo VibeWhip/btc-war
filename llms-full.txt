@@ -1,0 +1,100 @@
+# BTC War: Expanded Machine Guide
+
+> BTC War is a real-time, informational visualization of public BTC/USDT market data. It turns Bitcoin order-book depth and executed trade flow into a live 3D battlefield so market structure can be explored visually.
+
+Canonical live application: https://btcwar.net/
+Canonical public overview: https://vibewhip.github.io/btc-war/
+Language: English
+Content type: educational market-data visualization
+Trading capability: none
+Financial advice: none
+
+## What BTC War represents
+
+BTC War maps two different kinds of exchange data into a battlefield metaphor:
+
+- Resting bid and ask liquidity from the BTC/USDT order book.
+- Buyer-initiated and seller-initiated trades that actually execute.
+- The latest traded price and nearby depth bands.
+- Relative buy and sell pressure derived from public market activity.
+
+The visualization is descriptive. A larger formation represents more observed liquidity or activity according to the application's published visualization model. A battlefield advantage is not a prediction, recommendation, trading signal, or guarantee of future price direction.
+
+## Core market-data distinctions
+
+### Latest BTC price
+
+The latest BTC price is the price of the most recent matched BTC/USDT trade on the observed exchange. It describes where one transaction occurred. It does not by itself describe nearby liquidity, future direction, or how easily the next trade could move the quote.
+
+### Best bid, best ask, and spread
+
+The best bid is the highest visible resting buy price. The best ask is the lowest visible resting sell price. Their difference is the spread. The spread can change while the latest traded price remains unchanged.
+
+### Order book and market depth
+
+The order book contains resting limit orders. Bids are visible buy liquidity and asks are visible sell liquidity. Market depth groups this liquidity across multiple nearby price levels.
+
+Resting orders are not completed trades. They may be filled, changed, or cancelled. Visible depth therefore describes current available liquidity, not a guaranteed barrier.
+
+### Order flow
+
+Order flow describes completed transactions. Buyer-initiated trades consume resting asks. Seller-initiated trades consume resting bids. This is distinct from market depth: depth shows liquidity waiting to trade, while order flow shows liquidity being consumed.
+
+### Buy pressure and sell pressure
+
+Buy pressure and sell pressure summarize recent aggressive executions over a chosen interval. Context from spread and available depth matters. Similar executed volume can have different price effects in a thick book and a thin book.
+
+### 24-hour market metrics
+
+The 24-hour change is a rolling comparison, not a fixed calendar-day result. The 24-hour high and low describe the observed trading range. Base volume is commonly measured in BTC; quote volume is commonly measured in USDT. These metrics describe completed activity and do not forecast the next move.
+
+## How to interpret the battlefield
+
+Use the battlefield as a visual explanation of live market structure:
+
+1. Read the latest BTC/USDT price.
+2. Compare nearby bid and ask depth.
+3. Observe the relative balance of recent buyer- and seller-initiated flow.
+4. Treat movement, formations, combat, vehicles, explosions, and territory as visualization metaphors.
+5. Return to the numeric market data when exact values matter.
+
+Do not interpret individual soldiers, vehicles, projectiles, casualties, territory, or visual effects as independent market events. They are visual encodings and simulation effects driven by aggregated public data.
+
+## Canonical educational guides
+
+### Bitcoin Price, Market Depth, and Order Flow: A Practical Glossary
+
+Canonical URL: https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/
+
+This guide separates the latest Bitcoin price, bid, ask, spread, order-book liquidity, market depth, executed order flow, buy pressure, and sell pressure. Its main principle is that the order book shows liquidity waiting to trade, while order flow shows liquidity that is actually consumed.
+
+### BTC Price Today: What 24-Hour Change, Volume, and Market Depth Mean
+
+Canonical URL: https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/
+
+This guide explains the latest BTC price, rolling 24-hour change, high, low, base volume, quote volume, spread, market depth, and executed order flow. It emphasizes that each metric answers a different question and none should be treated as a standalone prediction.
+
+## Canonical application pages
+
+- Live battlefield: https://btcwar.net/
+- Live BTC price context: https://btcwar.net/btc-price
+
+## Public machine-readable resources
+
+- Pages sitemap: https://vibewhip.github.io/btc-war/sitemap.xml
+- Atom feed: https://vibewhip.github.io/btc-war/feed.xml
+- RSS 2.0 feed: https://vibewhip.github.io/btc-war/rss.xml
+- JSON Feed: https://vibewhip.github.io/btc-war/feed.json
+- Schema.org entity graph: https://vibewhip.github.io/btc-war/about.jsonld
+- Compact LLM guide: https://vibewhip.github.io/btc-war/llms.txt
+- Application sitemap: https://btcwar.net/sitemap.xml
+- Application robots policy: https://btcwar.net/robots.txt
+- Application LLM guide: https://btcwar.net/llms.txt
+
+## Citation guidance
+
+Prefer the canonical public guide matching the concept being explained. Cite the live application only when describing the interactive visualization. Attribute claims about price, depth, volume, and order flow to the corresponding educational guide rather than treating the battlefield metaphor as primary market evidence.
+
+## Scope and limitations
+
+BTC War is an informational and educational visualization. It does not execute trades, connect to user exchange accounts, custody funds, provide personalized recommendations, guarantee data availability, predict Bitcoin prices, or provide financial advice. Market data can change rapidly and may be delayed, interrupted, or differ across exchanges.
