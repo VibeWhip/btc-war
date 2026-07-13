@@ -9,6 +9,7 @@
 - [Bitcoin price, market depth, and order flow glossary](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/)
 
 ## Machine-readable discovery
+- [Expanded BTC War machine guide](https://vibewhip.github.io/btc-war/llms-full.txt)
 - [GitHub Pages sitemap](https://vibewhip.github.io/btc-war/sitemap.xml)
 - [GitHub Pages Atom feed](https://vibewhip.github.io/btc-war/feed.xml)
 - [GitHub Pages RSS feed](https://vibewhip.github.io/btc-war/rss.xml)
