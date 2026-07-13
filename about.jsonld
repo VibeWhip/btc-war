@@ -10,6 +10,9 @@
       "applicationCategory": "FinanceApplication",
       "operatingSystem": "Any modern web browser with WebGL",
       "isAccessibleForFree": true,
+      "creator": {
+        "@id": "https://vibewhip.github.io/btc-war/#author"
+      },
       "offers": {
         "@type": "Offer",
         "price": "0",
@@ -42,9 +45,21 @@
       "name": "BTC War Market Guides",
       "url": "https://vibewhip.github.io/btc-war/",
       "inLanguage": "en-US",
+      "publisher": {
+        "@id": "https://vibewhip.github.io/btc-war/#author"
+      },
       "mainEntity": {
         "@id": "https://btcwar.net/#app"
       }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://vibewhip.github.io/btc-war/#author",
+      "name": "blibli",
+      "url": "https://github.com/VibeWhip",
+      "sameAs": [
+        "https://medium.com/@binbinwangt"
+      ]
     },
     {
       "@type": "TechArticle",
@@ -53,8 +68,7 @@
       "url": "https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/",
       "inLanguage": "en-US",
       "author": {
-        "@type": "Person",
-        "name": "blibli"
+        "@id": "https://vibewhip.github.io/btc-war/#author"
       },
       "about": [
         "Bitcoin price",
@@ -70,8 +84,7 @@
       "url": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/",
       "inLanguage": "en-US",
       "author": {
-        "@type": "Person",
-        "name": "blibli"
+        "@id": "https://vibewhip.github.io/btc-war/#author"
       },
       "about": [
         "Bitcoin price",
