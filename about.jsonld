@@ -65,11 +65,27 @@
       "@type": "TechArticle",
       "@id": "https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/#article",
       "headline": "BTC Price Today: What 24-Hour Change, Volume, and Market Depth Mean",
+      "description": "Learn how to read a live BTC price, 24-hour Bitcoin change, trading volume, spread, market depth, and BTC/USDT order flow without treating them as predictions.",
       "url": "https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/",
+      "mainEntityOfPage": {
+        "@id": "https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/"
+      },
+      "isPartOf": {
+        "@id": "https://vibewhip.github.io/btc-war/#website"
+      },
       "inLanguage": "en-US",
+      "datePublished": "2026-07-12T13:00:00+00:00",
+      "dateModified": "2026-07-12T13:00:00+00:00",
       "author": {
         "@id": "https://vibewhip.github.io/btc-war/#author"
       },
+      "keywords": [
+        "BTC price today",
+        "live Bitcoin price",
+        "Bitcoin volume",
+        "market depth",
+        "order flow"
+      ],
       "about": [
         "Bitcoin price",
         "24-hour volume",
@@ -81,11 +97,27 @@
       "@type": "TechArticle",
       "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#article",
       "headline": "Bitcoin Price, Market Depth, and Order Flow: A Practical Glossary",
+      "description": "Understand how live Bitcoin price, BTC market depth, order-book liquidity, and executed order flow describe different parts of the market.",
       "url": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/",
+      "mainEntityOfPage": {
+        "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/"
+      },
+      "isPartOf": {
+        "@id": "https://vibewhip.github.io/btc-war/#website"
+      },
       "inLanguage": "en-US",
+      "datePublished": "2026-07-12T12:00:00+00:00",
+      "dateModified": "2026-07-12T12:00:00+00:00",
       "author": {
         "@id": "https://vibewhip.github.io/btc-war/#author"
       },
+      "keywords": [
+        "Bitcoin price",
+        "BTC",
+        "market depth",
+        "order book",
+        "order flow"
+      ],
       "about": [
         "Bitcoin price",
         "Order book",
