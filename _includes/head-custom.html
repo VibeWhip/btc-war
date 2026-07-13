@@ -5,3 +5,25 @@
 <link rel="alternate" type="application/feed+json" title="BTC War Market Guides" href="{{ '/feed.json' | relative_url }}">
 <link rel="describedby" type="application/ld+json" title="BTC War entity graph" href="{{ '/about.jsonld' | relative_url }}">
 <link rel="author" href="https://medium.com/@binbinwangt">
+{% if page.url == "/btc-price-today-volume-market-depth/" or page.url == "/bitcoin-price-market-depth-order-flow/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "BTC War Market Guides",
+      "item": "{{ '/' | absolute_url }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ page.title | jsonify }},
+      "item": {{ page.url | absolute_url | jsonify }}
+    }
+  ]
+}
+</script>
+{% endif %}
