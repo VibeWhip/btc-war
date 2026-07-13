@@ -26,6 +26,20 @@
         "Market depth",
         "Order flow"
       ],
+      "mentions": [
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-bitcoin-price"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-order-book"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-market-depth"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-order-flow"
+        }
+      ],
       "sameAs": [
         "https://vibewhip.github.io/btc-war/",
         "https://github.com/VibeWhip/btc-war"
@@ -50,6 +64,9 @@
       },
       "mainEntity": {
         "@id": "https://btcwar.net/#app"
+      },
+      "hasPart": {
+        "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#terms"
       }
     },
     {
@@ -91,6 +108,20 @@
         "24-hour volume",
         "Market depth",
         "Order flow"
+      ],
+      "mentions": [
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-bitcoin-price"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-spread"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-market-depth"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-order-flow"
+        }
       ]
     },
     {
@@ -123,7 +154,107 @@
         "Order book",
         "Market depth",
         "Order flow"
+      ],
+      "mainEntity": {
+        "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#terms"
+      }
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#terms",
+      "name": "BTC Market Data Terms",
+      "description": "Core terminology used to interpret Bitcoin price, order-book liquidity, market depth, and executed order flow.",
+      "url": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://vibewhip.github.io/btc-war/#website"
+      },
+      "hasDefinedTerm": [
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-bitcoin-price"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-best-bid"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-best-ask"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-spread"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-order-book"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-market-depth"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-order-flow"
+        }
       ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-bitcoin-price",
+      "name": "Bitcoin price",
+      "description": "The price of the most recent matched trade for a specific Bitcoin trading pair on an observed market.",
+      "inDefinedTermSet": {
+        "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#terms"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-best-bid",
+      "name": "Best bid",
+      "description": "The highest visible price at which a buyer is currently offering to trade.",
+      "inDefinedTermSet": {
+        "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#terms"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-best-ask",
+      "name": "Best ask",
+      "description": "The lowest visible price at which a seller is currently offering to trade.",
+      "inDefinedTermSet": {
+        "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#terms"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-spread",
+      "name": "Bid-ask spread",
+      "description": "The difference between the best visible bid and best visible ask.",
+      "inDefinedTermSet": {
+        "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#terms"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-order-book",
+      "name": "Bitcoin order book",
+      "description": "A snapshot of resting limit orders, with visible bids below the market and asks above it.",
+      "inDefinedTermSet": {
+        "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#terms"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-market-depth",
+      "name": "Market depth",
+      "description": "Resting order-book liquidity grouped across multiple price levels around the market.",
+      "inDefinedTermSet": {
+        "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#terms"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#term-order-flow",
+      "name": "BTC order flow",
+      "description": "Completed buyer-initiated and seller-initiated trades that consume resting liquidity.",
+      "inDefinedTermSet": {
+        "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#terms"
+      }
     }
   ]
 }
