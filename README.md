@@ -53,6 +53,7 @@ Each scene reads the same live market pressure through a different combat langua
 - [BTC price today: what 24-hour change, volume, and market depth mean](https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/)
 - [Bitcoin price, market depth, and order flow: a practical glossary](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/)
 - [How live crypto order flow drives six 3D battlefields](https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/)
+- [Designing a readable WebGL crypto visualization across six 3D battlefields](https://vibewhip.github.io/btc-war/readable-webgl-crypto-market-visualization/)
 - [From Bitcoin battlefield to Space War: visualizing crypto order flow at scale](https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/)
 - [Voxel Siege and Arcane War: visualizing live buy and sell pressure](https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/)
 - [Medieval Siege vs Champion Duel: two views of crypto market pressure](https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/)

@@ -46,6 +46,9 @@
       ],
       "subjectOf": [
         {
+          "@id": "https://vibewhip.github.io/btc-war/readable-webgl-crypto-market-visualization/#article"
+        },
+        {
           "@id": "https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/#article"
         },
         {
@@ -128,6 +131,42 @@
         "Market depth",
         "Real-time data visualization",
         "WebGL"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://vibewhip.github.io/btc-war/readable-webgl-crypto-market-visualization/#article",
+      "headline": "Designing a Readable WebGL Crypto Visualization Across Six 3D Battlefields",
+      "description": "How BTC War keeps live crypto price, order flow, market depth, motion, and effects readable across six Three.js and WebGL battle scenes.",
+      "url": "https://vibewhip.github.io/btc-war/readable-webgl-crypto-market-visualization/",
+      "mainEntityOfPage": {
+        "@id": "https://vibewhip.github.io/btc-war/readable-webgl-crypto-market-visualization/"
+      },
+      "isPartOf": {
+        "@id": "https://vibewhip.github.io/btc-war/#website"
+      },
+      "inLanguage": "en-US",
+      "datePublished": "2026-07-14T13:00:00+00:00",
+      "dateModified": "2026-07-14T13:00:00+00:00",
+      "author": {
+        "@id": "https://vibewhip.github.io/btc-war/#author"
+      },
+      "image": [
+        "https://vibewhip.github.io/btc-war/assets/screenshots/modern.webp",
+        "https://vibewhip.github.io/btc-war/assets/screenshots/space.webp",
+        "https://vibewhip.github.io/btc-war/assets/screenshots/voxel.webp"
+      ],
+      "keywords": [
+        "WebGL crypto visualization",
+        "Three.js data visualization",
+        "3D Bitcoin visualization",
+        "real-time market visualization"
+      ],
+      "about": [
+        "WebGL",
+        "Three.js",
+        "Cryptocurrency data visualization",
+        "Real-time data visualization"
       ]
     },
     {

@@ -7,11 +7,20 @@
   "authors": [
     {
       "name": "blibli",
-      "url": "https://medium.com/@blibli"
+      "url": "https://medium.com/@binbinwangt"
     }
   ],
   "language": "en-US",
   "items": [
+    {
+      "id": "https://vibewhip.github.io/btc-war/readable-webgl-crypto-market-visualization/",
+      "url": "https://vibewhip.github.io/btc-war/readable-webgl-crypto-market-visualization/",
+      "title": "Designing a Readable WebGL Crypto Visualization Across Six 3D Battlefields",
+      "summary": "How one market-data model, consistent visual anchors, bounded motion, and performance constraints keep six Three.js and WebGL scenes readable.",
+      "image": "https://vibewhip.github.io/btc-war/assets/screenshots/modern.webp",
+      "date_published": "2026-07-14T21:00:00+08:00",
+      "tags": ["webgl", "three.js", "crypto visualization", "data visualization"]
+    },
     {
       "id": "https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/",
       "url": "https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/",

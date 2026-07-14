@@ -66,6 +66,22 @@
     </image:image>
   </url>
   <url>
+    <loc>https://vibewhip.github.io/btc-war/readable-webgl-crypto-market-visualization/</loc>
+    <lastmod>2026-07-14T13:00:00+00:00</lastmod>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/modern.webp</image:loc>
+      <image:title>Readable WebGL Bitcoin order-flow battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/space.webp</image:loc>
+      <image:title>Readable Three.js crypto fleet visualization</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/voxel.webp</image:loc>
+      <image:title>Readable voxel crypto market visualization</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/</loc>
     <lastmod>2026-07-14T12:00:00+00:00</lastmod>
     <image:image>
