@@ -3,7 +3,7 @@ layout: default
 title: "Designing a Readable WebGL Crypto Visualization Across Six 3D Battlefields"
 description: "How BTC War keeps live crypto price, order flow, market depth, motion, and effects readable across six Three.js and WebGL battle scenes."
 author: blibli
-date: 2026-07-14 13:00:00 +0000
+date: 2026-07-14 12:45:00 +0000
 permalink: /readable-webgl-crypto-market-visualization/
 categories: [webgl, data-visualization]
 tags: [webgl, threejs, crypto-visualization, bitcoin]
