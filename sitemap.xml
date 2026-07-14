@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://vibewhip.github.io/btc-war/</loc>
     <lastmod>2026-07-14T11:00:00+00:00</lastmod>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/modern.webp</image:loc>
+      <image:title>BTC War live Bitcoin order-flow battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/voxel.webp</image:loc>
+      <image:title>Voxel Siege block-world battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/fantasy.webp</image:loc>
+      <image:title>Arcane War fantasy battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/siege.webp</image:loc>
+      <image:title>Medieval Siege castle battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/space.webp</image:loc>
+      <image:title>Space War fleet battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/duel.webp</image:loc>
+      <image:title>Champion Duel BUY versus SELL battle</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/</loc>
@@ -15,17 +40,65 @@
   <url>
     <loc>https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/</loc>
     <lastmod>2026-07-14T11:00:00+00:00</lastmod>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/modern.webp</image:loc>
+      <image:title>BTC War live crypto order-flow battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/voxel.webp</image:loc>
+      <image:title>Voxel Siege live market-pressure battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/fantasy.webp</image:loc>
+      <image:title>Arcane War live market-pressure battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/siege.webp</image:loc>
+      <image:title>Medieval Siege live market-pressure battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/space.webp</image:loc>
+      <image:title>Space War live market-pressure battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/duel.webp</image:loc>
+      <image:title>Champion Duel live market-pressure battle</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/</loc>
     <lastmod>2026-07-14T12:00:00+00:00</lastmod>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/modern.webp</image:loc>
+      <image:title>Bitcoin order flow visualized as a ground battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/space.webp</image:loc>
+      <image:title>Crypto order flow visualized as Space War</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/</loc>
     <lastmod>2026-07-14T12:05:00+00:00</lastmod>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/voxel.webp</image:loc>
+      <image:title>Voxel Siege BUY and SELL pressure battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/fantasy.webp</image:loc>
+      <image:title>Arcane War BUY and SELL pressure battlefield</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/</loc>
     <lastmod>2026-07-14T12:10:00+00:00</lastmod>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/siege.webp</image:loc>
+      <image:title>Medieval Siege crypto market-pressure battlefield</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vibewhip.github.io/btc-war/assets/screenshots/duel.webp</image:loc>
+      <image:title>Champion Duel crypto market-pressure battle</image:title>
+    </image:image>
   </url>
 </urlset>
