@@ -64,7 +64,7 @@ The battlefields are deliberately different, but the underlying interpretation s
 
 This separation matters. Executed order flow describes recent transactions, while market depth describes resting liquidity. Neither guarantees the next price move.
 
-[Browse the canonical six-battlefield gallery](https://btcwar.net/battlefields?utm_source=github-pages&utm_medium=guide&utm_campaign=six-battlefields), or [open BTC War](https://btcwar.net/?utm_source=github-pages&utm_medium=guide&utm_campaign=six-battlefields) to switch scenes with the **BATTLEFIELD** control. For a compact explanation of price, spread, depth, and trade flow, read the [Bitcoin market-data glossary](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/).
+[Open BTC War](https://btcwar.net/?utm_source=github-pages&utm_medium=guide&utm_campaign=six-battlefields) to switch scenes with the **BATTLEFIELD** control. For a compact explanation of price, spread, depth, and trade flow, read the [Bitcoin market-data glossary](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/).
 
 BTC War is descriptive and educational. It does not execute trades, provide trading signals, predict prices, or offer financial advice.
 

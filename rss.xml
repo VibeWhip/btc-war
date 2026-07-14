@@ -5,8 +5,38 @@
     <link>https://vibewhip.github.io/btc-war/</link>
     <description>Guides to live Bitcoin price, market depth, order flow, and the BTC War visualization.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 12:10:00 GMT</lastBuildDate>
     <atom:link href="https://vibewhip.github.io/btc-war/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medieval Siege vs Champion Duel: Two Views of Crypto Market Pressure</title>
+      <link>https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/</link>
+      <guid isPermaLink="true">https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/</guid>
+      <pubDate>Tue, 14 Jul 2026 12:10:00 GMT</pubDate>
+      <dc:creator>blibli</dc:creator>
+      <category>Crypto market pressure</category>
+      <category>Order flow</category>
+      <description>A comparison of army-scale siege warfare and continuous one-on-one combat as two visual forms of live BUY and SELL pressure.</description>
+    </item>
+    <item>
+      <title>Voxel Siege and Arcane War: Visualizing Live Buy and Sell Pressure</title>
+      <link>https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/</link>
+      <guid isPermaLink="true">https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/</guid>
+      <pubDate>Tue, 14 Jul 2026 12:05:00 GMT</pubDate>
+      <dc:creator>blibli</dc:creator>
+      <category>Buy and sell pressure</category>
+      <category>Market depth</category>
+      <description>Two fantasy-style WebGL scenes that map live aggregate trades and visible depth into block-world and arcane combat.</description>
+    </item>
+    <item>
+      <title>From Bitcoin Battlefield to Space War: Visualizing Crypto Order Flow at Scale</title>
+      <link>https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/</link>
+      <guid isPermaLink="true">https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/</guid>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+      <dc:creator>blibli</dc:creator>
+      <category>Bitcoin battlefield</category>
+      <category>Crypto order flow</category>
+      <description>How one live market model becomes a stable ground front and a bounded three-dimensional fleet war.</description>
+    </item>
     <item>
       <title>How Live Crypto Order Flow Drives Six 3D Battlefields</title>
       <link>https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/</link>

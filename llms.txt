@@ -8,6 +8,9 @@
 - [BTC price today, volume, and market depth guide](https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/)
 - [Bitcoin price, market depth, and order flow glossary](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/)
 - [How live crypto order flow drives six 3D battlefields](https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/)
+- [Bitcoin battlefield and Space War order-flow visualization](https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/)
+- [Voxel Siege and Arcane War buy/sell-pressure visualization](https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/)
+- [Medieval Siege and Champion Duel market-pressure visualization](https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/)
 
 ## Machine-readable discovery
 - [Expanded BTC War machine guide](https://vibewhip.github.io/btc-war/llms-full.txt)

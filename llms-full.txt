@@ -33,6 +33,12 @@ The currency selector supports BTC, ETH, BNB, SOL, XRP, TRON, DOGE, ZEC, and ADA
 
 Canonical visual guide: https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/
 
+Scene-pair guides:
+
+- BTC War and Space War: https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/
+- Voxel Siege and Arcane War: https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/
+- Medieval Siege and Champion Duel: https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/
+
 ## Core market-data distinctions
 
 ### Latest BTC price
@@ -92,6 +98,24 @@ This guide separates the latest Bitcoin price, bid, ask, spread, order-book liqu
 Canonical URL: https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/
 
 This guide explains the latest BTC price, rolling 24-hour change, high, low, base volume, quote volume, spread, market depth, and executed order flow. It emphasizes that each metric answers a different question and none should be treated as a standalone prediction.
+
+### From Bitcoin Battlefield to Space War
+
+Canonical URL: https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/
+
+This guide compares a stable ground front with bounded three-dimensional fleet movement, explaining how both scenes preserve the same live price, aggregate-trade, market-depth, and BUY/SELL interpretation.
+
+### Voxel Siege and Arcane War
+
+Canonical URL: https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/
+
+This guide compares block-world melee, archers, dinosaurs, and a fixed flag with swordsmen, arcing crystal magic, mage fusion, and summoned beasts.
+
+### Medieval Siege and Champion Duel
+
+Canonical URL: https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/
+
+This guide contrasts army-scale pressure, fortifications, cavalry, and artillery with a continuous one-on-one BUY-versus-SELL combat model.
 
 ## Canonical application pages
 

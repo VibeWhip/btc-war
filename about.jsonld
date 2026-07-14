@@ -46,6 +46,15 @@
       ],
       "subjectOf": [
         {
+          "@id": "https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/#article"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/#article"
+        },
+        {
+          "@id": "https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/#article"
+        },
+        {
           "@id": "https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/#article"
         },
         {
@@ -120,6 +129,54 @@
         "Real-time data visualization",
         "WebGL"
       ]
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/#article",
+      "headline": "From Bitcoin Battlefield to Space War: Visualizing Crypto Order Flow at Scale",
+      "description": "See how BTC War maps the same live crypto order flow into a ground battlefield and a three-dimensional fleet war without turning market activity into a prediction.",
+      "url": "https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/",
+      "mainEntityOfPage": { "@id": "https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/" },
+      "isPartOf": { "@id": "https://vibewhip.github.io/btc-war/#website" },
+      "inLanguage": "en-US",
+      "datePublished": "2026-07-14T12:00:00+00:00",
+      "dateModified": "2026-07-14T12:00:00+00:00",
+      "author": { "@id": "https://vibewhip.github.io/btc-war/#author" },
+      "image": "https://vibewhip.github.io/btc-war/assets/screenshots/space.webp",
+      "keywords": ["Bitcoin battlefield", "Space War", "crypto order flow", "WebGL visualization"],
+      "about": ["Bitcoin order flow", "Crypto market depth", "Three-dimensional data visualization"]
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/#article",
+      "headline": "Voxel Siege and Arcane War: Visualizing Live Buy and Sell Pressure",
+      "description": "Compare two fantasy-style WebGL scenes that map live crypto price, aggregate trades and market depth into block-world and arcane combat.",
+      "url": "https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/",
+      "mainEntityOfPage": { "@id": "https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/" },
+      "isPartOf": { "@id": "https://vibewhip.github.io/btc-war/#website" },
+      "inLanguage": "en-US",
+      "datePublished": "2026-07-14T12:05:00+00:00",
+      "dateModified": "2026-07-14T12:05:00+00:00",
+      "author": { "@id": "https://vibewhip.github.io/btc-war/#author" },
+      "image": "https://vibewhip.github.io/btc-war/assets/screenshots/fantasy.webp",
+      "keywords": ["Voxel Siege", "Arcane War", "buy and sell pressure", "market depth"],
+      "about": ["Buy pressure", "Sell pressure", "Cryptocurrency order flow visualization"]
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/#article",
+      "headline": "Medieval Siege vs Champion Duel: Two Views of Crypto Market Pressure",
+      "description": "Compare army-scale siege warfare and continuous one-on-one combat as two ways to visualize live crypto BUY and SELL pressure.",
+      "url": "https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/",
+      "mainEntityOfPage": { "@id": "https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/" },
+      "isPartOf": { "@id": "https://vibewhip.github.io/btc-war/#website" },
+      "inLanguage": "en-US",
+      "datePublished": "2026-07-14T12:10:00+00:00",
+      "dateModified": "2026-07-14T12:10:00+00:00",
+      "author": { "@id": "https://vibewhip.github.io/btc-war/#author" },
+      "image": "https://vibewhip.github.io/btc-war/assets/screenshots/siege.webp",
+      "keywords": ["Medieval Siege", "Champion Duel", "crypto market pressure", "order flow"],
+      "about": ["Crypto market pressure", "Order flow", "BUY and SELL visualization"]
     },
     {
       "@type": "TechArticle",

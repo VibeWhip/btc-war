@@ -4,7 +4,7 @@
 **Live BTC price and Bitcoin order flow visualized as a real-time 3D battlefield.**
 
 
-[Launch BTC War](https://btcwar.net/) · [Explore six battlefields](https://btcwar.net/battlefields) · [View live BTC price](https://btcwar.net/btc-price)
+[Launch BTC War](https://btcwar.net/) · [View live BTC price](https://btcwar.net/btc-price)
 
 
 BTC War turns live Binance Spot BTC/USDT market data into an interactive visualization. Bitcoin buyers and sellers become opposing forces, while BTC order flow, order-book depth, executed trades, and buy/sell pressure shape the battle in real time.
@@ -40,7 +40,7 @@ BTC War is free to use and requires no account. Market data is informational and
 
 Each scene reads the same live market pressure through a different combat language. The currency selector supports BTC, ETH, BNB, SOL, XRP, TRON, DOGE, ZEC, and ADA against USDT.
 
-[Explore the canonical six-battlefield gallery](https://btcwar.net/battlefields), then [read how live order flow drives every scene](https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/).
+[See how live order flow drives all six battlefields](https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/).
 
 
 ## BTC market guides
@@ -53,6 +53,9 @@ Each scene reads the same live market pressure through a different combat langua
 - [BTC price today: what 24-hour change, volume, and market depth mean](https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/)
 - [Bitcoin price, market depth, and order flow: a practical glossary](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/)
 - [How live crypto order flow drives six 3D battlefields](https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/)
+- [From Bitcoin battlefield to Space War: visualizing crypto order flow at scale](https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/)
+- [Voxel Siege and Arcane War: visualizing live buy and sell pressure](https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/)
+- [Medieval Siege vs Champion Duel: two views of crypto market pressure](https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/)
 - [Turning live Bitcoin order flow into a 3D battlefield](https://dev.to/vibewhip/turning-live-bitcoin-order-flow-into-a-3d-battlefield-b5f)
 - [BTC price, order book, and order flow are three different things](https://medium.com/p/7cd5ba5e58b2)
 

@@ -13,6 +13,33 @@
   "language": "en-US",
   "items": [
     {
+      "id": "https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/",
+      "url": "https://vibewhip.github.io/btc-war/medieval-siege-champion-duel-market-pressure/",
+      "title": "Medieval Siege vs Champion Duel: Two Views of Crypto Market Pressure",
+      "summary": "A comparison of army-scale siege warfare and continuous one-on-one combat as two visual forms of live BUY and SELL pressure.",
+      "image": "https://vibewhip.github.io/btc-war/assets/screenshots/siege.webp",
+      "date_published": "2026-07-14T20:10:00+08:00",
+      "tags": ["medieval siege", "champion duel", "market pressure", "order flow"]
+    },
+    {
+      "id": "https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/",
+      "url": "https://vibewhip.github.io/btc-war/voxel-siege-arcane-war-buy-sell-pressure/",
+      "title": "Voxel Siege and Arcane War: Visualizing Live Buy and Sell Pressure",
+      "summary": "Two fantasy-style WebGL scenes that map live aggregate trades and visible depth into block-world and arcane combat.",
+      "image": "https://vibewhip.github.io/btc-war/assets/screenshots/fantasy.webp",
+      "date_published": "2026-07-14T20:05:00+08:00",
+      "tags": ["voxel siege", "arcane war", "buy sell pressure", "market depth"]
+    },
+    {
+      "id": "https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/",
+      "url": "https://vibewhip.github.io/btc-war/bitcoin-battlefield-space-war-order-flow/",
+      "title": "From Bitcoin Battlefield to Space War: Visualizing Crypto Order Flow at Scale",
+      "summary": "How one live market model becomes a stable ground front and a bounded three-dimensional fleet war.",
+      "image": "https://vibewhip.github.io/btc-war/assets/screenshots/space.webp",
+      "date_published": "2026-07-14T20:00:00+08:00",
+      "tags": ["bitcoin battlefield", "space war", "crypto order flow", "webgl"]
+    },
+    {
       "id": "https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/",
       "url": "https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/",
       "title": "How Live Crypto Order Flow Drives Six 3D Battlefields",
