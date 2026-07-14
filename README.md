@@ -4,7 +4,7 @@
 **Live BTC price and Bitcoin order flow visualized as a real-time 3D battlefield.**
 
 
-[Launch BTC War](https://btcwar.net/) · [View live BTC price](https://btcwar.net/btc-price)
+[Launch BTC War](https://btcwar.net/) · [Explore six battlefields](https://btcwar.net/battlefields) · [View live BTC price](https://btcwar.net/btc-price)
 
 
 BTC War turns live Binance Spot BTC/USDT market data into an interactive visualization. Bitcoin buyers and sellers become opposing forces, while BTC order flow, order-book depth, executed trades, and buy/sell pressure shape the battle in real time.
@@ -40,7 +40,7 @@ BTC War is free to use and requires no account. Market data is informational and
 
 Each scene reads the same live market pressure through a different combat language. The currency selector supports BTC, ETH, BNB, SOL, XRP, TRON, DOGE, ZEC, and ADA against USDT.
 
-[See how live order flow drives all six battlefields](https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/).
+[Explore the canonical six-battlefield gallery](https://btcwar.net/battlefields), then [read how live order flow drives every scene](https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/).
 
 
 ## BTC market guides
