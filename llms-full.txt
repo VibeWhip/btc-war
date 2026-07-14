@@ -93,6 +93,12 @@ Canonical URL: https://vibewhip.github.io/btc-war/readable-webgl-crypto-market-v
 
 This technical design guide explains how a single market-data model, consistent faction anchors, bounded motion, visible attack origins, performance constraints, and explicit non-predictive limits keep six Three.js and WebGL scenes readable.
 
+Primary technical references:
+- Binance Spot WebSocket Streams: https://developers.binance.com/en/docs/products/spot/web-socket-streams
+- Binance Spot REST API: https://developers.binance.com/en/docs/products/spot/rest-api
+- Three.js scene and animation-loop guide: https://threejs.org/manual/en/creating-a-scene.html
+- Khronos WebGL API Registry: https://registry.khronos.org/webgl/
+
 ### Bitcoin Price, Market Depth, and Order Flow: A Practical Glossary
 
 Canonical URL: https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/

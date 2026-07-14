@@ -147,7 +147,7 @@
       },
       "inLanguage": "en-US",
       "datePublished": "2026-07-14T12:45:00+00:00",
-      "dateModified": "2026-07-14T12:45:00+00:00",
+      "dateModified": "2026-07-14T13:10:00+00:00",
       "author": {
         "@id": "https://vibewhip.github.io/btc-war/#author"
       },
@@ -167,6 +167,24 @@
         "Three.js",
         "Cryptocurrency data visualization",
         "Real-time data visualization"
+      ],
+      "isBasedOn": [
+        "https://developers.binance.com/en/docs/products/spot/web-socket-streams",
+        "https://developers.binance.com/en/docs/products/spot/rest-api"
+      ],
+      "citation": [
+        {
+          "@type": "TechArticle",
+          "name": "Creating a scene",
+          "url": "https://threejs.org/manual/en/creating-a-scene.html",
+          "publisher": { "@type": "Organization", "name": "Three.js" }
+        },
+        {
+          "@type": "TechArticle",
+          "name": "Khronos WebGL API Registry",
+          "url": "https://registry.khronos.org/webgl/",
+          "publisher": { "@type": "Organization", "name": "Khronos Group" }
+        }
       ]
     },
     {

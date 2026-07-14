@@ -4,6 +4,7 @@ title: "Designing a Readable WebGL Crypto Visualization Across Six 3D Battlefiel
 description: "How BTC War keeps live crypto price, order flow, market depth, motion, and effects readable across six Three.js and WebGL battle scenes."
 author: blibli
 date: 2026-07-14 12:45:00 +0000
+last_modified_at: 2026-07-14 13:10:00 +0000
 permalink: /readable-webgl-crypto-market-visualization/
 categories: [webgl, data-visualization]
 tags: [webgl, threejs, crypto-visualization, bitcoin]
@@ -91,6 +92,13 @@ For that reason, a responsible crypto visualization should state what it can and
 ## Explore the live visualization
 
 [Open BTC War](https://btcwar.net/?utm_source=github-pages&utm_medium=guide&utm_campaign=webgl-visualization) to compare all six scenes with live market data. For the market concepts beneath the animation, read the [Bitcoin price, market depth, and order-flow glossary](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/). The [six-battlefield visual guide](https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/) compares the forces and major events in every scene.
+
+## Primary technical references
+
+- [Binance Spot WebSocket Streams](https://developers.binance.com/en/docs/products/spot/web-socket-streams) documents the public aggregate-trade and depth streams that underpin the live market feed.
+- [Binance Spot REST API](https://developers.binance.com/en/docs/products/spot/rest-api) documents the public market-data endpoints used to establish current state and recover recent market context.
+- [Three.js: Creating a scene](https://threejs.org/manual/en/creating-a-scene.html) describes the scene, camera, renderer, and animation-loop model behind browser-based Three.js experiences.
+- [Khronos WebGL API Registry](https://registry.khronos.org/webgl/) is the primary specification registry for the browser graphics API used by WebGL renderers.
 
 BTC War is an informational visualization. It does not execute trades, predict prices, create trading signals, or provide financial advice.
 
