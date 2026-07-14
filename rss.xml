@@ -5,8 +5,19 @@
     <link>https://vibewhip.github.io/btc-war/</link>
     <description>Guides to live Bitcoin price, market depth, order flow, and the BTC War visualization.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Jul 2026 22:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:00:00 GMT</lastBuildDate>
     <atom:link href="https://vibewhip.github.io/btc-war/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Live Crypto Order Flow Drives Six 3D Battlefields</title>
+      <link>https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/</link>
+      <guid isPermaLink="true">https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/</guid>
+      <pubDate>Tue, 14 Jul 2026 11:00:00 GMT</pubDate>
+      <dc:creator>blibli</dc:creator>
+      <category>Crypto order flow</category>
+      <category>Market depth</category>
+      <category>Data visualization</category>
+      <description>A visual tour of six WebGL battlefields driven by live crypto price, aggregate trades, market depth, and BUY/SELL pressure.</description>
+    </item>
     <item>
       <title>BTC Price Today: What 24-Hour Change, Volume, and Market Depth Mean</title>
       <link>https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/</link>

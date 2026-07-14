@@ -6,7 +6,7 @@ lang: en_US
 author:
   name: blibli
 repository: VibeWhip/btc-war
-image: "https://btcwar.net/btc-war-battlefield-preview.jpg"
+image: "https://vibewhip.github.io/btc-war/assets/screenshots/space.webp"
 logo: "https://btcwar.net/favicon.svg"
 plugins:
   - jekyll-seo-tag
@@ -15,5 +15,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: "https://btcwar.net/btc-war-battlefield-preview.jpg"
-
+      image: "https://vibewhip.github.io/btc-war/assets/screenshots/space.webp"

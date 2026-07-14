@@ -27,6 +27,22 @@ BTC War is free to use and requires no account. Market data is informational and
 **BTC price page:** https://btcwar.net/btc-price
 
 
+## Six live battlefields
+
+
+| BTC War | Voxel Siege |
+| --- | --- |
+| ![Live crypto order flow rendered as the BTC War battlefield](assets/screenshots/modern.webp) | ![Voxel Siege with block soldiers, archers, dinosaurs and faction yurts](assets/screenshots/voxel.webp) |
+| Arcane War | Medieval Siege |
+| ![Arcane War with swordsmen, mages, crystal magic and opposing castles](assets/screenshots/fantasy.webp) | ![Medieval Siege with infantry, archers, cavalry, catapults and fortresses](assets/screenshots/siege.webp) |
+| Space War | Champion Duel |
+| ![Space War with bright fleets, planets, shielded bases, lasers and missiles](assets/screenshots/space.webp) | ![Champion Duel with BUY and SELL fighters, health bars, combos and finishers](assets/screenshots/duel.webp) |
+
+Each scene reads the same live market pressure through a different combat language. The currency selector supports BTC, ETH, BNB, SOL, XRP, TRON, DOGE, ZEC, and ADA against USDT.
+
+[See how live order flow drives all six battlefields](https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/).
+
+
 ## BTC market guides
 
 
@@ -36,9 +52,9 @@ BTC War is free to use and requires no account. Market data is informational and
 - [Bitcoin price vs market depth: what a live BTC quote cannot show](https://github.com/VibeWhip/btc-war/discussions/4)
 - [BTC price today: what 24-hour change, volume, and market depth mean](https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/)
 - [Bitcoin price, market depth, and order flow: a practical glossary](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/)
+- [How live crypto order flow drives six 3D battlefields](https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/)
 - [Turning live Bitcoin order flow into a 3D battlefield](https://dev.to/vibewhip/turning-live-bitcoin-order-flow-into-a-3d-battlefield-b5f)
 - [BTC price, order book, and order flow are three different things](https://medium.com/p/7cd5ba5e58b2)
 
 
 This public repository contains project documentation only. Private application source code, deployment configuration, credentials, and build artifacts are not published here.
-

@@ -7,6 +7,7 @@
 - [Public project overview](https://vibewhip.github.io/btc-war/)
 - [BTC price today, volume, and market depth guide](https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/)
 - [Bitcoin price, market depth, and order flow glossary](https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/)
+- [How live crypto order flow drives six 3D battlefields](https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/)
 
 ## Machine-readable discovery
 - [Expanded BTC War machine guide](https://vibewhip.github.io/btc-war/llms-full.txt)

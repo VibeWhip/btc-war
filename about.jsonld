@@ -46,11 +46,22 @@
       ],
       "subjectOf": [
         {
+          "@id": "https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/#article"
+        },
+        {
           "@id": "https://vibewhip.github.io/btc-war/btc-price-today-volume-market-depth/#article"
         },
         {
           "@id": "https://vibewhip.github.io/btc-war/bitcoin-price-market-depth-order-flow/#article"
         }
+      ],
+      "screenshot": [
+        "https://vibewhip.github.io/btc-war/assets/screenshots/modern.webp",
+        "https://vibewhip.github.io/btc-war/assets/screenshots/voxel.webp",
+        "https://vibewhip.github.io/btc-war/assets/screenshots/fantasy.webp",
+        "https://vibewhip.github.io/btc-war/assets/screenshots/siege.webp",
+        "https://vibewhip.github.io/btc-war/assets/screenshots/space.webp",
+        "https://vibewhip.github.io/btc-war/assets/screenshots/duel.webp"
       ]
     },
     {
@@ -76,6 +87,38 @@
       "url": "https://github.com/VibeWhip",
       "sameAs": [
         "https://medium.com/@binbinwangt"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/#article",
+      "headline": "How Live Crypto Order Flow Drives Six 3D Battlefields",
+      "description": "Explore how BTC War maps live crypto prices, aggregate trades, market depth, and BUY/SELL pressure into six interactive WebGL battle scenes.",
+      "url": "https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/",
+      "mainEntityOfPage": {
+        "@id": "https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/"
+      },
+      "isPartOf": {
+        "@id": "https://vibewhip.github.io/btc-war/#website"
+      },
+      "inLanguage": "en-US",
+      "datePublished": "2026-07-14T11:00:00+00:00",
+      "dateModified": "2026-07-14T11:00:00+00:00",
+      "author": {
+        "@id": "https://vibewhip.github.io/btc-war/#author"
+      },
+      "image": "https://vibewhip.github.io/btc-war/assets/screenshots/space.webp",
+      "keywords": [
+        "crypto order flow",
+        "market depth visualization",
+        "3D Bitcoin game",
+        "WebGL battlefield"
+      ],
+      "about": [
+        "Cryptocurrency order flow",
+        "Market depth",
+        "Real-time data visualization",
+        "WebGL"
       ]
     },
     {

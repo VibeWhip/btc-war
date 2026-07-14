@@ -20,6 +20,19 @@ BTC War maps two different kinds of exchange data into a battlefield metaphor:
 
 The visualization is descriptive. A larger formation represents more observed liquidity or activity according to the application's published visualization model. A battlefield advantage is not a prediction, recommendation, trading signal, or guarantee of future price direction.
 
+## Six interactive battlefields
+
+- BTC War maps live pressure to infantry, armor, aircraft, explosions, and a central BUY or SELL objective.
+- Voxel Siege uses block-world soldiers, archers, dinosaurs, yurts, watchtowers, and a control flag.
+- Arcane War uses swordsmen, mages, crystal projectiles, mage fusion, castles, and summoned beasts.
+- Medieval Siege uses infantry, archers, cavalry, catapults, destructible walls, and opposing fortresses.
+- Space War uses fighters, cruisers, flagships, planets, lasers, missiles, maintenance sorties, and shielded bases.
+- Champion Duel maps BUY and SELL pressure to two color-coded fighters with health, combos, blocks, and finishers.
+
+The currency selector supports BTC, ETH, BNB, SOL, XRP, TRON, DOGE, ZEC, and ADA spot markets against USDT. Scene and currency selection persist locally in the browser.
+
+Canonical visual guide: https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/
+
 ## Core market-data distinctions
 
 ### Latest BTC price
@@ -61,6 +74,12 @@ Use the battlefield as a visual explanation of live market structure:
 Do not interpret individual soldiers, vehicles, projectiles, casualties, territory, or visual effects as independent market events. They are visual encodings and simulation effects driven by aggregated public data.
 
 ## Canonical educational guides
+
+### How Live Crypto Order Flow Drives Six 3D Battlefields
+
+Canonical URL: https://vibewhip.github.io/btc-war/crypto-order-flow-six-3d-battlefields/
+
+This visual guide documents the six current battle scenes with real screenshots and explains how price, aggregate trades, market depth, force balance, objectives, and large-order events are mapped into each combat language.
 
 ### Bitcoin Price, Market Depth, and Order Flow: A Practical Glossary
 
